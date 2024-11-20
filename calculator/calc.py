@@ -1,5 +1,5 @@
 import flet as ft
-import math  # ファクトリアル計算や平方根、対数で使用
+import math  # ファクトリアル計算や平方根、対数で使用.
 
 
 class CalcButton(ft.ElevatedButton):
